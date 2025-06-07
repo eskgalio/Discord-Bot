@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.3.2-blue)](https://discordpy.readthedocs.io/en/stable/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 MindfulBot is an innovative Discord chatbot designed to provide mental health support, resources, and a safe space for community members. It combines natural language processing with evidence-based mental health practices to offer immediate, accessible support while encouraging professional help when needed.
 
